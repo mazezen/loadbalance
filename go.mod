@@ -1,3 +1,3 @@
 module github.com/mazezen/load-balancing
 
-go 1.17
+go 1.22.0
