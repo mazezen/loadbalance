@@ -5,7 +5,7 @@
 
 ### Install
 ```shell
-go get github.com/mazezen/loadbalance
+go get github.com/mazezen/loadbalance@v0.0.4
 ```
 
 ### E.g
