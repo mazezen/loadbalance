@@ -1,3 +1,3 @@
-module github.com/mazezen/load-balancing
+module github.com/mazezen/loadbalance
 
 go 1.22.0
