@@ -1,11 +1,11 @@
 ### <p align="center">loadbalance</p>
 #### <p align="center">随机、轮训、权重、哈希负载均衡</p>
-#### <p align="center"><a href="https://github.com/jeffcail/loadbalance/releases"><img src="https://img.shields.io/github/release/loadbalance/releases.svg" alt="GitHub release"></a><a href="https://github.com/jeffcail/loadbalance/blob/master/LICENSE"><img src="https://img.shields.io/github/license/mashape/apistatus.svg" alt="license"></a><p>
+#### <p align="center"><a href="https://github.com/mazezen/loadbalance/releases"><img src="https://img.shields.io/github/release/loadbalance/releases.svg" alt="GitHub release"></a><a href="https://github.com/mazezen/loadbalance/blob/master/LICENSE"><img src="https://img.shields.io/github/license/mashape/apistatus.svg" alt="license"></a><p>
 #### <p align="center"><a href="./README.md" target="_blank">简体中文</a> | <a href="./README_en.md" target="_blank">English</a> </p>
 
 ### 安装
 ```shell
-go get github.com/jeffcail/loadbalance
+go get github.com/mazezen/loadbalance
 ```
 
 ### E.g
